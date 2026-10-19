@@ -1,0 +1,3 @@
+No license has been selected for this repository. Before making the repository public,
+choose an appropriate license (or explicitly retain all rights reserved) and verify
+that all included datasets and assets may be redistributed under their own terms.

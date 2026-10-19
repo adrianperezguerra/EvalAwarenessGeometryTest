@@ -1,0 +1,10 @@
+{
+  "eval_deploy": [
+    {"a": "REPLACE: evaluation-framed prompt for item 1", "b": "REPLACE: matched ordinary/deployment-framed prompt for item 1"},
+    {"a": "REPLACE: evaluation-framed prompt for item 2", "b": "REPLACE: matched ordinary/deployment-framed prompt for item 2"}
+  ],
+  "control": [
+    {"a": "REPLACE: control contrast A for item 1", "b": "REPLACE: matched control contrast B for item 1"},
+    {"a": "REPLACE: control contrast A for item 2", "b": "REPLACE: matched control contrast B for item 2"}
+  ]
+}
